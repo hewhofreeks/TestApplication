@@ -1,0 +1,12 @@
+D:\Code\TestApplication\TestApplication.Services\bin\Debug\netstandard2.0\TestApplication.Services.deps.json
+D:\Code\TestApplication\TestApplication.Services\bin\Debug\netstandard2.0\TestApplication.Services.dll
+D:\Code\TestApplication\TestApplication.Services\bin\Debug\netstandard2.0\TestApplication.Services.pdb
+D:\Code\TestApplication\TestApplication.Services\bin\Debug\netstandard2.0\TestApplication.DataModel.dll
+D:\Code\TestApplication\TestApplication.Services\bin\Debug\netstandard2.0\TestApplication.DataModel.pdb
+D:\Code\TestApplication\TestApplication.Services\obj\Debug\netstandard2.0\TestApplication.Services.csprojAssemblyReference.cache
+D:\Code\TestApplication\TestApplication.Services\obj\Debug\netstandard2.0\TestApplication.Services.AssemblyInfoInputs.cache
+D:\Code\TestApplication\TestApplication.Services\obj\Debug\netstandard2.0\TestApplication.Services.AssemblyInfo.cs
+D:\Code\TestApplication\TestApplication.Services\obj\Debug\netstandard2.0\TestApplication.Services.csproj.CoreCompileInputs.cache
+D:\Code\TestApplication\TestApplication.Services\obj\Debug\netstandard2.0\TestApplication.Services.csproj.CopyComplete
+D:\Code\TestApplication\TestApplication.Services\obj\Debug\netstandard2.0\TestApplication.Services.dll
+D:\Code\TestApplication\TestApplication.Services\obj\Debug\netstandard2.0\TestApplication.Services.pdb

@@ -1,0 +1,9 @@
+D:\Code\TestApplication\TestApplication.DataModel\bin\Debug\netstandard2.0\TestApplication.DataModel.deps.json
+D:\Code\TestApplication\TestApplication.DataModel\bin\Debug\netstandard2.0\TestApplication.DataModel.dll
+D:\Code\TestApplication\TestApplication.DataModel\obj\Debug\netstandard2.0\TestApplication.DataModel.csprojAssemblyReference.cache
+D:\Code\TestApplication\TestApplication.DataModel\obj\Debug\netstandard2.0\TestApplication.DataModel.AssemblyInfoInputs.cache
+D:\Code\TestApplication\TestApplication.DataModel\obj\Debug\netstandard2.0\TestApplication.DataModel.AssemblyInfo.cs
+D:\Code\TestApplication\TestApplication.DataModel\bin\Debug\netstandard2.0\TestApplication.DataModel.pdb
+D:\Code\TestApplication\TestApplication.DataModel\obj\Debug\netstandard2.0\TestApplication.DataModel.csproj.CoreCompileInputs.cache
+D:\Code\TestApplication\TestApplication.DataModel\obj\Debug\netstandard2.0\TestApplication.DataModel.dll
+D:\Code\TestApplication\TestApplication.DataModel\obj\Debug\netstandard2.0\TestApplication.DataModel.pdb
